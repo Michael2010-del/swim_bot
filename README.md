@@ -1,4 +1,4 @@
-Вот готовый файл `README.md` для вашего бота о плавании:
+
 
 ```markdown
 # 🏊‍♂️ Swimming Bot — Telegram-бот о плавании
